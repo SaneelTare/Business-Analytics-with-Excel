@@ -8,3 +8,7 @@ Successfully completed the Simplilearn SkillUP tutorial course for Excel Dashboa
 
 ![image](https://github.com/SaneelTare/Business-Analytics-with-Excel/assets/90349506/daa3211a-b81e-4f9b-aafc-91eaee873367)
 
+Received a Certificate of Completion.
+
+
+
