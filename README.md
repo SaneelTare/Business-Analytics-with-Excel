@@ -6,3 +6,5 @@ Successfully completed the Simplilearn SkillUP tutorial course for Excel Dashboa
 2.  By the end of the course, I was thorough with Excel dashboard basics and how it can be used in storytelling utilizing data, charts, graphs etc.
 3.  Attached is the dashboard learnt and build in Excel.
 
+![image](https://github.com/SaneelTare/Business-Analytics-with-Excel/assets/90349506/daa3211a-b81e-4f9b-aafc-91eaee873367)
+
